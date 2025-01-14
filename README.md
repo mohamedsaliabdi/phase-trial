@@ -28,3 +28,4 @@ HTML: For creating the structure of the application.
 CSS: For styling the application.
 JavaScript: For fetching the data, managing events, and dynamically updating the page.
 JSON: For storing and managing the cake data.# phase-trial
+# cake-off-challenge
